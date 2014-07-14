@@ -8,7 +8,7 @@ Browser-Sync Setting for VCCW.
 
 ### Clone to your VCCW directory. 
 
-	npm install && npm start
+	git clone git@github.com:gaspanik/bs4vccw.git
 		
 ### Edit your vhost name and theme path in 'gulpfile.js'.
 
