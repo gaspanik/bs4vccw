@@ -1,0 +1,15 @@
+{
+  "name": "bs4vccw",
+  "version": "0.0.1",
+  "description": "Browser-Sync for VCCW",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Komori",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^1.2.1",
+    "gulp": "^3.8.6"
+  }
+}
